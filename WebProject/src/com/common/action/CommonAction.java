@@ -1,5 +1,5 @@
 package com.common.action;
 
 public class CommonAction {
-	int i=0;
+	int qi=1;
 }
