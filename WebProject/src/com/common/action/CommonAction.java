@@ -5,4 +5,6 @@ public class CommonAction {
 	int qi=3;
 	String j="aaa";
 	int ja=0;
+	int qqq;
+	int www;
 }
